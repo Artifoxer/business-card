@@ -9,10 +9,10 @@ body {
 }
 
 .avatar {
-    width: 75px;
+    width: 90px;
     height: 125px;
-    border: 2px solid gray;
-    border-radius: 10px;
+    border: 1px solid gray;
+    border-radius: 30px;
 }
 
 .card {
@@ -22,11 +22,11 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #f48c06;
+    background: #E5E4E2;
     color: #2b2839;
     border-bottom: 6px solid #d8cefe;
-    border-radius: 10px;
-    text-shadow: 2px 2px 5px red;
+    border-radius: 30px;
+    text-shadow: 2px 2px 5px orange;
         
     /*
     Challenge:
